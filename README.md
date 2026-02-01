@@ -1,4 +1,4 @@
 # demo
 this is my first git
 <br>
-author - vivek kumar
+author - vivek kumar gandu
